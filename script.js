@@ -1,0 +1,1 @@
+console.log("Campus Fest website loaded successfully!");
